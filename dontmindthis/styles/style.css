@@ -1,22 +1,26 @@
 html {
-  background-color: rgb(3, 3, 48);
+  background-color: rgb(3, 3, 46);
   font-size: 25px;
   font-family:
     Google Sans,
     sans-serif;
 }
 p {
-  color: rgb(255, 158, 55);
-  font-family: sans-serif;
+  color: coral;
+  font-family: Arial, sans-serif;
 }
 h1 {
   font-size: 60px;
-  color: rgb(255, 230, 230);
+  color: beige;
   text-align: center;
 }
 h3 {
-  color: rgb(255, 255, 255);
+  color: white;
   font-size: 25px;
+}
+h2 {
+  color: white;
+  font-size: 30px;
 }
 img {
   display: block;
